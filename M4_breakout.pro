@@ -1,4 +1,4 @@
-update=Tue 23 Aug 2016 03:10:01 PM CEST
+update=Sat 27 Aug 2016 03:40:44 PM CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,4 @@ LibName28=contrib
 LibName29=valves
 LibName30=/home/hexo/kikad/libs/stm32f318k8
 LibName31=/home/hexo/kikad/libs/quad_dip_switch
+LibName32=/home/hexo/kikad/libs/quad-bc547
